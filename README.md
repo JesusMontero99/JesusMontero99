@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Jesús David Montero Daza 👋
 
-<!--
-**JesusMontero99/JesusMontero99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ingeniero de Sistemas | Analista de Datos 
 
-Here are some ideas to get you started:
+Con experiencia en el análisis, diseño, procesamiento, automatización, estructuración y visualización de datos cuantitativos y cualitativos aplicados a proyectos comunitarios y de gestión pública. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologías
+
+⚡ Python (Pandas)
+🗄️ SQL (PostgreSQL, MySQL)
+📈 Power BI (Modelado de datos, DAX, Power Query) 
+📊 Excel Avanzado (VBA, Macros, Power Query)
+
+## Certificaciones
+
+- Análisis de Datos y Herramientas de Inteligencia Artificial (Bootcamp) - BETEK
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/jesusmontero99 
+- Correo: jedamoda10@gmail.com
+
+## Portafolio de proyectos
+
+Próximamente...
